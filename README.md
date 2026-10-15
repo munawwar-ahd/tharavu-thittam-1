@@ -15,3 +15,4 @@ A Optical Character Recognition system that detects text from the scanned copy o
 *    Perfect recognition and removal of header-footer in the image focusing only the content of the page.
 *    Better accuracy in terms of output compared to Online OCRs.
 # tharavu-thittam-1
+# tamil-ocr
