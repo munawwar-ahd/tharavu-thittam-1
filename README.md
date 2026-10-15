@@ -16,3 +16,4 @@ A Optical Character Recognition system that detects text from the scanned copy o
 *    Better accuracy in terms of output compared to Online OCRs.
 # tharavu-thittam-1
 # tamil-ocr
+# tharavu-thittam-2
